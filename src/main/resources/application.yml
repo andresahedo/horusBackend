@@ -1,0 +1,8 @@
+spring:
+  # Propiedades del banner
+  banner:
+  location: 
+  classpath: /static/:banner.txt
+  image:
+    location:
+      classpath: /img/:banner.gif
